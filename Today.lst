@@ -5,13 +5,13 @@
 <List>
 <OBJ>
 <Name>
-Test
+Search (Beta)
 </Name>
 <URL>
 127.0.0.1:80\Test.htm
 </URL>
 <Icon>
-https://raw.githubusercontent.com/creeperlv/DC9/master/Todays/Testing.png
+DC9://Images/Search_Beta.png
 </Icon>
 </OBJ>
 <OBJ>
