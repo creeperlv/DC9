@@ -1,6 +1,6 @@
 <DC>
 <Build>
-4
+5
 </Build>
 <List>
 <OBJ>
@@ -10,6 +10,9 @@ Test
 <URL>
 127.0.0.1:80\Test.htm
 </URL>
+<Icon>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Todays/Testing.png
+</Icon>
 </OBJ>
 </List>
 </DC>
