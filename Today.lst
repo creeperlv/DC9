@@ -16,10 +16,10 @@ DC9://Images/Search_Beta.png
 </OBJ>
 <OBJ>
 <Name>
-Test
+TEST
 </Name>
 <URL>
-127.0.0.1:80\Test.htm
+https://raw.githubusercontent.com/creeperlv/DC9/master/Today/Test.htm
 </URL>
 <Icon>
 https://raw.githubusercontent.com/creeperlv/DC9/master/Todays/Testing.png
