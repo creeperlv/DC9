@@ -122,6 +122,23 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.1.1_b11.jar
 https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.1.1_b11.html
 </NF>
 </Version>
+<Version>
+<Ver>
+Alpha_Preview_DCMain_0.1.2
+</Ver>
+<Build>
+12
+</Build>
+<WarningLevel>
+4
+</WarningLevel>
+<URL>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.1.1_b12.jar
+</URL>
+<NF>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.1.1_b12.html
+</NF>
+</Version>
 </Versions>
 </DC>
 <!>NF-New Feature
