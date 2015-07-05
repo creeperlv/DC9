@@ -73,10 +73,27 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.8_b8.jar
 </Version>
 <Version>
 <Ver>
-0.0.9
+0.0.9 Alpha Preview
 </Ver>
 <Build>
-9 Alpha Preview
+9
+</Build>
+<WarningLevel>
+3
+</WarningLevel>
+<URL>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.9_b9.jar
+</URL>
+<NF>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.9_b9.html
+</NF>
+</Version>
+<Version>
+<Ver>
+Alpha_Pre_0.1.0
+</Ver>
+<Build>
+10
 </Build>
 <WarningLevel>
 3
