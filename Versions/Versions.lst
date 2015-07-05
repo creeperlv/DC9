@@ -3,7 +3,7 @@
 <Versions>
 <Version>
 <Ver>
-0.0.1 Alpha Preview
+Alpha_Preview_DCMain_0.0.1
 </Ver>
 <Build>
 1
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.1_b1.jar
 </Version>
 <Version>
 <Ver>
-0.0.5 Alpha Preview
+Alpha_Preview_DCMain_0.0.5
 </Ver>
 <Build>
 5
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.5_b5.jar
 </Version>
 <Version>
 <Ver>
-0.0.6 Alpha Preview
+Alpha_Preview_DCMain_0.0.6
 </Ver>
 <Build>
 6
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.6_b6.jar
 </Version>
 <Version>
 <Ver>
-0.0.7 Alpha Preview
+Alpha_Preview_DCMain_0.0.7
 </Ver>
 <Build>
 7
@@ -59,13 +59,13 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.7_b7.jar
 </Version>
 <Version>
 <Ver>
-0.0.8 Alpha Preview
+Alpha_Preview_impressive_0.0.8
 </Ver>
 <Build>
 8
 </Build>
 <WarningLevel>
-3
+2
 </WarningLevel>
 <URL>
 https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.8_b8.jar
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Versions/0.0.8_b8.jar
 </Version>
 <Version>
 <Ver>
-0.0.9 Alpha Preview
+Alpha_Preview_DCMain_0.0.9
 </Ver>
 <Build>
 9
