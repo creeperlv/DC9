@@ -11,5 +11,12 @@ The First
 1
 </API>
 <URL>
-
+https://raw.githubusercontent.com/creeperlv/DC9/master/master/Plug-ins/TheFirst.js
 </URL>
+<Icon>
+NULL
+</Icon>
+<AutoRun/>
+</PLUGIN>
+</List>
+</DC>
