@@ -6,6 +6,21 @@
 <List>
 <PLUGIN>
 <Name>
+Exprimal
+</Name>
+<API>
+1
+</API>
+<URL>
+https://raw.githubusercontent.com/creeperlv/DC9/master/Plug-ins/TFlags.js
+</URL>
+<Icon>
+NULL
+</Icon>
+<AutoRun/>
+</PLUGIN>
+<PLUGIN>
+<Name>
 The First
 </Name>
 <API>
