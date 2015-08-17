@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/creeperlv/DC9/master/Plug-ins/TheFirst.js
 <Icon>
 NULL
 </Icon>
-<AutoRun/>
+<AutoRun>
 </PLUGIN>
 </List>
 </DC>
